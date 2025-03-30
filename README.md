@@ -3,6 +3,7 @@ Using the 8-bit timer0 component included in the ATmega328P to generate PWM wave
 
 # Usage
 Connect PD6 pin to a LED
+
 Connect PD3 to a switch
 
 To increase LED 'brightness', press the switch.
